@@ -1,5 +1,5 @@
 var DiscordRPC = require('discord-rpc');
-var clientId = '663552222692638750';
+var clientId = '663557111824908301';
 var rpc = new DiscordRPC.Client({ transport: 'ipc' });
 var config = require('../config.js');
 var Gamedig = require('gamedig');
