@@ -1,5 +1,5 @@
 module.exports = {
     'timer' : true,
-    'server' : '193.70.125.98',
+    'server' : '51.68.10.140',
     'port' : 22003 // Default: 22003
 }
